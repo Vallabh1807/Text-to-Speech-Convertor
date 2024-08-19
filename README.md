@@ -24,19 +24,19 @@ This is a simple Text-to-Voice Converter web application built using HTML, CSS, 
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/home-page.png)
+![Home Page](images/Homepage.png)
 
 ### Voice Options
-![Voice Options](screenshots/voice-options.png)
+![Voice Options](images/Language.png)
 
 ### Speech in Action
-![Speech in Action](screenshots/speech-in-action.png)
+![Speech in Action](screenshots/Demo.png)
 
 > **Note:** Replace the image paths above with the correct paths to your screenshots in the repository.
 
 ## Website Demo
 
-Check out the live demo of the Text-to-Voice Converter here: [Text-to-Voice Converter Demo](your-demo-link)
+Check out the live demo of the Text-to-Voice Converter here: [Text-to-Voice Converter Demo](https://vallabh1807.github.io/Text-to-Speech-Convertor/)
 
-> **Note:** Replace `your-demo-link` with the actual URL of your live demo.
+
 
