@@ -30,9 +30,7 @@ This is a simple Text-to-Voice Converter web application built using HTML, CSS, 
 ![Voice Options](images/Language.png)
 
 ### Speech in Action
-![Speech in Action](screenshots/Demo.png)
-
-> **Note:** Replace the image paths above with the correct paths to your screenshots in the repository.
+![Speech in Action](images/Demo.png)
 
 ## Website Demo
 
